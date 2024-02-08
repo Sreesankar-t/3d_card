@@ -1,0 +1,72 @@
+
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+header{
+    position: absolute;
+    position: fixed;
+    padding: 20px;
+    width: 100%;
+    text-align: right;
+    transition: all ease-in-out .2s;
+    
+}
+header a{
+    color: rgba(255,255,255,0.5);
+    text-decoration: none;
+    margin-right: 100px;
+    font-size: 18px;
+    transition: all ease-in-out .15s;
+}
+header a:hover{
+    color: white;
+   
+}
+
+main{
+    background-image: url('./images/pexels-quang-nguyen-vinh-2649403.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+section{
+    background-image: url('./images/pexels-quang-nguyen-vinh-2649403.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.comon{
+    width: 27%;
+    height: auto;
+    background-color: rgb(255, 255, 255,0.5);
+    mix-blend-mode: overlay;
+    padding: 20px;
+    line-height: 22px;
+    border-radius: 5px;
+}
+main h1{
+    margin: 0%;
+    font-size: 50px;
+    color: black;
+    mix-blend-mode: overlay;
+}
