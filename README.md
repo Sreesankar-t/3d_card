@@ -9,5 +9,5 @@ this is the parallax simple landing page
 
 this is the animated fliping login register page
 
-![Screenshot 2024-02-20 172109](https://github.com/Sreesankar-t/3d_card/assets/125552943/ef8f1860-ab27-4061-b06d-e78222f41dfd)
+![Screenshot 2024-02-20 172528](https://github.com/Sreesankar-t/3d_card/assets/125552943/c76601d8-3450-42e9-87d8-992489c1a069)
 
